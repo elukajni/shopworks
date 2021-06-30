@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<input
+  className="textInput"
+  name="street_address"
+  onChange={[Function]}
+  type="text"
+  value=""
+/>
+`;

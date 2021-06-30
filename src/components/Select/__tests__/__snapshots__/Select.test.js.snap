@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<select
+  className="selectInput"
+  name="country"
+  onChange={[Function]}
+  value=""
+>
+  <option
+    value="Canada"
+  >
+    Canada
+  </option>
+  <option
+    value="USA"
+  >
+    USA
+  </option>
+</select>
+`;
